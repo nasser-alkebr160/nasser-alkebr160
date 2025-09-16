@@ -1,11 +1,4 @@
 
-<p align="center">
-<a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="30" /></a>
-</p>
-
-![](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 👨‍💻 I'm **Nasser Alkebr**, an **Android & Flutter Developer**  
