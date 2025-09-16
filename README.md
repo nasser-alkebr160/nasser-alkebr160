@@ -22,24 +22,4 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="55" height="55"/>
 </p>
 
----
 
-### 📊 My GitHub Stats:
-![Nasser's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasser-alkebr160&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasser-alkebr160&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nasser-alkebr160&theme=dark)](https://git.io/streak-stats)
-
----
-
-### ✍️ Latest Blog/Notes:
-- Working on Flutter & Android articles 🚀  
-- More updates coming soon…  
-
----
-
-### 💡 Quote:
-<i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
-
----
-
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
